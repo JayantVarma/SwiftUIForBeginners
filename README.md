@@ -1,4 +1,4 @@
-# SwiftUIForBeginners
+# SwiftUI For Absolute Beginners
 SwiftUI For Absolute Beginners - Source Code
 
 Authors: [Jayant Varma](http://www.oz-apps.com)
